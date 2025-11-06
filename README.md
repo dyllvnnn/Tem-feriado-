@@ -1,4 +1,4 @@
-# Holiday Checker - PDF Analyzer
+# Tem feriado? - PDF Analyzer
 
 Uma aplicação Tkinter para analisar arquivos PDF e identificar quais datas contidas neles são feriados brasileiros.
 
